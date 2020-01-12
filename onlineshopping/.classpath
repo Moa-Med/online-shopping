@@ -29,6 +29,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/asus/Downloads/jar_files/javax.servlet-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus/Downloads/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus/Downloads/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
